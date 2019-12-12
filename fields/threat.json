@@ -1,0 +1,20 @@
+{
+    "key": "threat",
+    "type": "select_one",
+    "label": "What is happening here?",
+    "universal": true,
+    "placeholder": "",
+    "options": [
+        "Logging",
+        "Oil installation",
+        "Oil spill",
+        "Agricultural impact",
+        "Illegal cultivation",
+        "Armed groups",
+        "Poaching",
+        "Illegal Fishing",
+        "Mining",
+        "Other"
+
+        ]
+}

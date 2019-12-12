@@ -1,0 +1,7 @@
+{
+    "key": "culture",
+    "type": "text",
+    "label": "Why is this place important",
+    "universal": true,
+    "placeholder": "What happened here, or why is this place important to the community?"
+}

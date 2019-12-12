@@ -1,0 +1,16 @@
+{
+    "key": "resource",
+    "type": "select_one",
+    "label": "What is found here?",
+    "universal": true,
+    "placeholder": "",
+    "options": [
+        "Hunting site",
+        "Fishing site",
+        "Medicinal plant",
+        "Wild foods",
+      "Materials for construction",
+      "Materials for crafts",
+      "Other"
+        ]
+}

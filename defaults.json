@@ -1,0 +1,15 @@
+{
+  "area": ["boundary-icca", "boundary"
+
+  ],
+  "line": ["boundary", "path"
+
+  ],
+  "point": ["boundary", "path", "community-cultural",
+      "community-resource", "conservation", "guardpost", "other",
+      "settlement", "impact", "tourism"
+
+  ],
+  "vertex": [],
+  "relation": []
+}

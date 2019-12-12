@@ -1,0 +1,12 @@
+{
+    "icon": "boundary",
+    "geometry": [
+        "point",
+		"line", "area"
+    ],
+
+    "terms":["border", "frontier", "limit"],
+    "name": "Boundary",
+    "tags": {"categoryId":"boundary"},
+    "fields": ["name"]
+}

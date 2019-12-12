@@ -1,0 +1,9 @@
+{
+  "icon": "culture",
+  "fields": ["name", "culture"],
+  "geometry": ["point"],
+
+  "terms": ["community", "cultural", "sacred", "history", "spiritual"],
+  "name": "Historical or Cultural Site",
+  "tags": {"categoryId":"community-cultural"}
+}

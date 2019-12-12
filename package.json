@@ -1,0 +1,16 @@
+{
+  "name": "presets-icca",
+  "version": "1.0.0",
+  "description": "Presets for ICCA mapping, with WCMC",
+  "dependencies": {
+    "mkdirp": "^0.5.1",
+    "mapeo-settings-builder": "^2.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "mkdirp build && mapeo-settings build -l 'en' -o build/config-icca-v${npm_package_version}.mapeosettings",
+    "test": "mapeo-settings lint"
+  },
+  "author": "Digital Democracy",
+  "private": true
+}

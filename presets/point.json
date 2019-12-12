@@ -1,0 +1,5 @@
+{ "name": "New Point",
+
+  "geometry": ["point"],
+  "tags": {}
+}

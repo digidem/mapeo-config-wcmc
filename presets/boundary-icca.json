@@ -1,0 +1,15 @@
+{
+    "icon": "boundary",
+    "fields":
+        ["name", "icca-country", "icca-area", "icca-land-sea", "icca-decision-making"],
+
+    "geometry": [
+		"area"
+    ],
+    "tags": {
+        "boundary": "protected_area",
+        "protection_title": "icca"
+    },
+    "terms":["boundary", "icca", "border", "limit", "icca"],
+    "name": "ICCA Boundary"
+}

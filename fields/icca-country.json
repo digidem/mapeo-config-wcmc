@@ -1,0 +1,7 @@
+{
+    "key": "icca-country",
+    "type": "textarea",
+    "label": "Country",
+    "universal": true,
+    "placeholder": "What country is it located in?"
+}
