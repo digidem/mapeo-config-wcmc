@@ -1,3 +1,5 @@
 {
-  "dataset_id": "mapeo-icca"
+  "dataset_id": "mapeo-icca",
+  "version": "1.0.0",
+  "name": "WCMC ICCA Database"
 }
