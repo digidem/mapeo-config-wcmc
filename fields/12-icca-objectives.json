@@ -1,0 +1,21 @@
+{
+    "key": "icca-objectives",
+    "type": "select_multiple",
+    "label": "Objectives: what are the main objectives of managing the ICCA?",
+    "universal": true,
+    "placeholder": "",
+    "options": [
+        "Supporting traditional livelihoods",
+        "Supporting sustainable livelihoods",
+        "Maintaining and enhancing natural resources",
+        "Cultural/ traditional preservation",
+        "Spiritual/ sacred sites preservation",
+        "Biodiversity/species conservation",
+        "Land ownership security",
+        "Territorial security (control of access to land and resources)",
+        "Increasing rights for self determination and empowerment",
+        "Developing opportunities for tourism",
+        "Other (please describe under question 13)"
+
+        ]
+}

@@ -1,0 +1,7 @@
+{
+    "key": "icca-other",
+    "type": "textarea",
+    "label": "Anything else",
+    "universal": true,
+    "placeholder": "Any other important information you would like to share"
+}

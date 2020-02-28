@@ -1,0 +1,7 @@
+{
+    "key": "icca-year",
+    "type": "textarea",
+    "label": "Year ICCA established",
+    "universal": true,
+    "placeholder": "In which year did this status come into effect? If the status is established, this is the year in which the ICCA first came into being."
+}

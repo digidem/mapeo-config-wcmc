@@ -1,0 +1,7 @@
+{
+    "key": "icca-no-take-area",
+    "type": "textarea",
+    "label": "Size of no-take area",
+    "universal": true,
+    "placeholder": "What is the size, in km squared, of the no-take area?"
+}
