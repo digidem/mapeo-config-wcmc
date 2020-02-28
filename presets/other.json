@@ -1,8 +1,0 @@
-{
-  "icon": "other",
-  "name": "Other",
-  "geometry": ["point"],
-  "tags": {},
-  "fields": ["name"]
-
-}

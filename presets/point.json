@@ -1,5 +1,7 @@
-{ "name": "New Point",
-
+{
+  "icon": "other",
+  "name": "Other",
   "geometry": ["point"],
-  "tags": {}
+  "tags": {},
+  "fields": ["name"]
 }
