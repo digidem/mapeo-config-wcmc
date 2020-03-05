@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.2.1](https://github.com/digidem/mapeo-config-icca/compare/v1.2.0...v1.2.1) (2020-03-05)
+
+
+### Bug Fixes
+
+* Fix broken presets ([918b981](https://github.com/digidem/mapeo-config-icca/commit/918b981ec9f9ea2cbfa0437a66dc9796f8c183ae))
+* include build in published package ([d7dae86](https://github.com/digidem/mapeo-config-icca/commit/d7dae86a7f20d6d25cfd8f5fa487a2e0a9e5f574))
+
 ## [1.2.0](https://github.com/digidem/mapeo-config-wcmc/compare/v1.1.0...v1.2.0) (2020-03-05)
 
 ### Features
