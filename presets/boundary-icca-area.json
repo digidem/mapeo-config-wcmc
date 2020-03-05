@@ -1,15 +1,24 @@
 {
-    "icon": "boundary",
-    "fields":
-        ["name", "icca-country", "icca-area", "icca-land-sea", "icca-sea-area", "icca-no-take", "icca-decision-making", "icca-status", "icca-year", "icca-objectives", "icca-other"],
+  "icon": "boundary",
+  "fields": [
+    "name",
+    "2-icca-country",
+    "3-icca-area",
+    "4-icca-land-sea",
+    "5-icca-sea-area",
+    "6-icca-no-take",
+    "8-icca-decision-making",
+    "9-icca-status",
+    "10-icca-year",
+    "12-icca-objectives",
+    "13-icca-other"
+  ],
 
-    "geometry": [
-		"area"
-    ],
-    "tags": {
-        "boundary": "protected_area",
-        "protection_title": "icca"
-    },
-    "terms":["boundary", "icca", "border", "limit", "icca"],
-    "name": "ICCA Boundary"
+  "geometry": ["area", "line"],
+  "tags": {
+    "boundary": "protected_area",
+    "protection_title": "icca"
+  },
+  "terms": ["boundary", "icca", "border", "limit", "icca"],
+  "name": "ICCA Boundary"
 }

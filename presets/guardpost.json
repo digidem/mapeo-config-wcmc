@@ -4,7 +4,6 @@
 
   "terms": ["guardpost", "station"],
   "name": "Guardpost",
-  "tags": {"categoryId":"guardpost"},
+  "tags": { "categoryId": "guardpost" },
   "fields": ["name"]
-
 }

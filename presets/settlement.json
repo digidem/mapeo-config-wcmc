@@ -4,7 +4,6 @@
 
   "terms": ["settlement", "village", "community"],
   "name": "Settlement",
-  "tags": {"categoryId":"settlement"},
+  "tags": { "categoryId": "settlement" },
   "fields": ["name"]
-
 }

@@ -1,6 +1,7 @@
-{ "name": "New area",
+{
+  "name": "Other area",
   "tags": {
-      "area": "yes"
+    "area": "yes"
   },
   "geometry": ["area"],
   "matchScore": 0.1

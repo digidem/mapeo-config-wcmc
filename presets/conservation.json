@@ -4,8 +4,6 @@
 
   "terms": ["conservation", "testing", "scientific", "research", "reserve"],
   "name": "Conservation Site",
-  "tags": {"categoryId":"conservation"}
-  ,
+  "tags": { "categoryId": "conservation" },
   "fields": ["name"]
-
 }

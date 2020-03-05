@@ -1,14 +1,10 @@
 {
-    "icon": "path",
+  "icon": "path",
 
-    "geometry": [
-        "point",
-		"line"
-    ],
+  "geometry": ["point", "line"],
 
-    "terms":["path", "road", "footpath"],
-    "name": "Path",
-    "tags": {"categoryId":"path"},
-    "fields": ["name"]
-
+  "terms": ["path", "road", "footpath"],
+  "name": "Path",
+  "tags": { "categoryId": "path" },
+  "fields": ["name"]
 }

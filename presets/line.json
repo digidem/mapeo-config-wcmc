@@ -1,7 +1,7 @@
 {
-    "name": "New line",
-    "tags": {
-      "nuevo": "yes"
-    },
-    "geometry": ["line"]
+  "name": "New line",
+  "tags": {
+    "nuevo": "yes"
+  },
+  "geometry": ["line"]
 }

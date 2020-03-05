@@ -5,7 +5,6 @@
 
   "terms": ["tourism", "lodge", "tourist"],
   "name": "Tourism",
-  "tags": {"categoryId":"tourism"},
+  "tags": { "categoryId": "tourism" },
   "fields": ["name"]
-
 }

@@ -3,5 +3,6 @@
   "name": "Other",
   "geometry": ["point"],
   "tags": {},
-  "fields": ["name"]
+  "fields": ["name"],
+  "matchScore": 0.1
 }

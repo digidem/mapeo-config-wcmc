@@ -1,9 +1,7 @@
 {
-    "key": "icca-no-take",
-    "type": "select_one",
-    "label": "6.	Is there a part of the ICCA where no natural resources can be taken or used (a no-take area)? This can be seasonal, temporary or permanent.",
-    "universal": true,
-    "options": ["All on land and/or freshwater",
-        "Yes",
-        "No"]
+  "key": "icca-no-take",
+  "type": "select_one",
+  "label": "6. Is there a part of the ICCA where no natural resources can be taken or used (a no-take area)? This can be seasonal, temporary or permanent.",
+  "universal": true,
+  "options": ["All on land and/or freshwater", "Yes", "No"]
 }

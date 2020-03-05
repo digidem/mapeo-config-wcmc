@@ -5,5 +5,5 @@
 
   "terms": ["community", "resource"],
   "name": "Community Resource",
-  "tags": {"categoryId":"community-resource"}
+  "tags": { "categoryId": "community-resource" }
 }
