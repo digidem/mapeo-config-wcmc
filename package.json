@@ -1,7 +1,7 @@
 {
-  "name": "presets-icca",
+  "name": "mapeo-config-icca",
   "version": "1.1.0",
-  "description": "Presets for ICCA mapping, with WCMC",
+  "description": "Mapeo config for ICCA mapping, with WCMC",
   "dependencies": {},
   "devDependencies": {
     "mapeo-settings-builder": "^2.14.0",
