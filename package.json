@@ -5,11 +5,16 @@
   "dependencies": {},
   "devDependencies": {
     "mapeo-settings-builder": "^2.14.0",
-    "mkdirp": "^0.5.1"
+    "mkdirp": "^0.5.1",
+    "rimraf": "^3.0.2"
   },
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "build": "mkdirp build && mapeo-settings build -l 'en' -o build/config-icca-v${npm_package_version}.mapeosettings",
-    "test": "mapeo-settings lint"
+    "test": "mapeo-settings lint",
+    "prepublishOnly": "rimraf dist && mkdirp dist && npm run -s build && tar -C dist -xf build/config-icca-v${npm_package_version}.mapeosettings"
   },
   "author": "Digital Democracy"
 }
