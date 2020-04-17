@@ -2,7 +2,7 @@
   "key": "icca-area",
   "type": "text",
   "appearance": "singleline",
-  "label": "Area of ICCA (km²)",
+  "label": "3. Area of ICCA (km²)",
   "placeholder": "Area in square kilometers",
   "helperText": "Select the ICCA shape and press Alt + i to get statistics of the area."
 }

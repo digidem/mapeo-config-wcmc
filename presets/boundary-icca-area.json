@@ -1,7 +1,7 @@
 {
   "icon": "boundary",
   "fields": [
-    "name",
+    "1-name",
     "2-icca-country",
     "3-icca-area",
     "4-icca-land-sea",
@@ -10,6 +10,7 @@
     "8-icca-decision-making",
     "9-icca-status",
     "10-icca-year",
+    "11-icca-type",
     "12-icca-objectives",
     "13-icca-other"
   ],

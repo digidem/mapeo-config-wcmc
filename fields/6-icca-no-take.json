@@ -1,7 +1,7 @@
 {
   "key": "icca-no-take",
   "type": "select_one",
-  "label": "Is there a no-take area?",
+  "label": "6. Is there a no-take area?",
   "helperText": "Is there a part of the ICCA where no natural resources can be taken or used (a no-take area)? This can be seasonal, temporary or permanent.",
   "options": [
     { "label": "Yes", "value": "yes" },

@@ -1,0 +1,6 @@
+{
+  "key": "name",
+  "type": "text",
+  "appearance": "singleline",
+  "label": "1. Name of ICCA"
+}
