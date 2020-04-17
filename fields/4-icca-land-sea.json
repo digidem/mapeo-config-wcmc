@@ -1,9 +1,16 @@
 {
-    "key": "icca-land-sea",
-    "type": "select_one",
-    "label": "Is the ICCA on land, in the sea, or both?",
-    "universal": true,
-    "options": ["All on land and/or freshwater",
-        "All in the sea",
-        "Both land and sea"]
+  "key": "icca-land-sea",
+  "type": "select_one",
+  "label": "Is the ICCA on land, in the sea, or both?",
+  "options": [
+    { "label": "All on land and/or freshwater", "value": "land" },
+    {
+      "label": "All in the sea",
+      "value": "sea"
+    },
+    {
+      "label": "Both land and sea",
+      "value": "land_and_sea"
+    }
+  ]
 }

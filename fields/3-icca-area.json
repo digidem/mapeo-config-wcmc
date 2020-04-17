@@ -1,7 +1,8 @@
 {
-    "key": "icca-area",
-    "type": "textarea",
-    "label": "Area of ICCA",
-    "universal": true,
-    "placeholder": "What is the area of the ICCA in km squared? (select the ICCA and press option+i to get statistics of the area)"
+  "key": "icca-area",
+  "type": "text",
+  "appearance": "singleline",
+  "label": "Area of ICCA (km²)",
+  "placeholder": "Area in square kilometers",
+  "helperText": "Select the ICCA shape and press Alt + i to get statistics of the area."
 }

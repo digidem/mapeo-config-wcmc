@@ -1,10 +1,24 @@
 {
-    "key": "icca-decision-making",
-    "type": "select_one",
-    "label": "Who is accountable for the decision-making and rules of the ICCA?",
-    "universal": true,
-    "options": ["Indigenous people/s",
-        "Local community/ies",
-        "Collaborative governance (one entity is responsible but is required to consult with others)",
-        "Joint governance (two or more entities are jointly responsible)"]
+  "key": "icca-decision-making",
+  "type": "select_one",
+  "label": "Who is responsible for the decision-making and rules of the ICCA?",
+  "options": [
+    {
+      "label": "Indigenous people/s",
+      "value": "indigenous_people"
+    },
+    {
+      "label": "Local community/ies",
+      "value": "local_community"
+    },
+    {
+      "label": "Collaborative governance",
+      "value": "collaborative_governance"
+    },
+    {
+      "label": "Joint governance",
+      "value": "joint_governance"
+    }
+  ],
+  "helperText": "Select 'Collaborative governance' if one entity is responsible but is required to consult with others. Select 'Joint Governance' if two or more entities are jointly responsible"
 }

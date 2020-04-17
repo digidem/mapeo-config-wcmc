@@ -1,20 +1,48 @@
 {
-    "key": "threat",
-    "type": "select_one",
-    "label": "What is happening here?",
-    "universal": true,
-    "placeholder": "",
-    "options": [
-        "Logging",
-        "Oil installation",
-        "Oil spill",
-        "Agricultural impact",
-        "Illegal cultivation",
-        "Armed groups",
-        "Poaching",
-        "Illegal Fishing",
-        "Mining",
-        "Other"
-
-        ]
+  "key": "threat",
+  "type": "select_one",
+  "label": "What is happening here?",
+  "placeholder": "",
+  "options": [
+    {
+      "label": "Logging",
+      "value": "logging"
+    },
+    {
+      "label": "Oil installation",
+      "value": "oil_installation"
+    },
+    {
+      "label": "Oil spill",
+      "value": "oil_spill"
+    },
+    {
+      "label": "Agricultural impact",
+      "value": "agricultural_impact"
+    },
+    {
+      "label": "Illegal cultivation",
+      "value": "illegal_cultivation"
+    },
+    {
+      "label": "Armed groups",
+      "value": "armed_groups"
+    },
+    {
+      "label": "Poaching",
+      "value": "poaching"
+    },
+    {
+      "label": "Illegal Fishing",
+      "value": "illegal_fishing"
+    },
+    {
+      "label": "Mining",
+      "value": "mining"
+    },
+    {
+      "label": "Other",
+      "value": "other"
+    }
+  ]
 }

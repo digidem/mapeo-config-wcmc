@@ -1,7 +1,8 @@
 {
-    "key": "icca-no-take-area",
-    "type": "textarea",
-    "label": "Size of no-take area",
-    "universal": true,
-    "placeholder": "What is the size, in km squared, of the no-take area?"
+  "key": "icca-no-take-area",
+  "type": "text",
+  "appearance": "singleline",
+  "label": "Size of no-take area (km²)",
+  "placeholder": "Size in square kilometers",
+  "helperText": "What is the size, in km squared, of the no-take area?"
 }

@@ -1,7 +1,6 @@
 {
   "icon": "boundary",
   "geometry": ["point"],
-
   "terms": ["border", "frontier", "limit"],
   "name": "ICCA Boundary",
   "tags": { "categoryId": "boundary" },

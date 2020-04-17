@@ -1,7 +1,6 @@
 {
-    "key": "icca-type",
-    "type": "textarea",
-    "label": "Type of ICCA",
-    "universal": true,
-    "placeholder": "Type of ICCA (this can be the legal designation of the ICCA, e.g. Indigenous Reserve, or the type of ICCA as defined by the indigenous people or community, e.g. sacred site."
+  "key": "icca-type",
+  "type": "text",
+  "label": "Type of ICCA",
+  "helperText": "This can be the legal designation of the ICCA, e.g. Indigenous Reserve, or the type of ICCA as defined by the indigenous people or community, e.g. sacred site."
 }

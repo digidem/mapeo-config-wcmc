@@ -1,8 +1,6 @@
 {
   "icon": "tourism",
-
   "geometry": ["point"],
-
   "terms": ["tourism", "lodge", "tourist"],
   "name": "Tourism",
   "tags": { "categoryId": "tourism" },

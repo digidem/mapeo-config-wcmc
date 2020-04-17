@@ -1,21 +1,52 @@
 {
-    "key": "icca-objectives",
-    "type": "select_multiple",
-    "label": "Objectives: what are the main objectives of managing the ICCA?",
-    "universal": true,
-    "placeholder": "",
-    "options": [
-        "Supporting traditional livelihoods",
-        "Supporting sustainable livelihoods",
-        "Maintaining and enhancing natural resources",
-        "Cultural/ traditional preservation",
-        "Spiritual/ sacred sites preservation",
-        "Biodiversity/species conservation",
-        "Land ownership security",
-        "Territorial security (control of access to land and resources)",
-        "Increasing rights for self determination and empowerment",
-        "Developing opportunities for tourism",
-        "Other (please describe under question 13)"
-
-        ]
+  "key": "icca-objectives",
+  "type": "select_multiple",
+  "label": "ICCA Objectives",
+  "helperText": "What are the main objectives of managing the ICCA?",
+  "options": [
+    {
+      "label": "Supporting traditional livelihoods",
+      "value": "traditional_livelihoods"
+    },
+    {
+      "label": "Supporting sustainable livelihoods",
+      "value": "sustainable_livelihoods"
+    },
+    {
+      "label": "Maintaining and enhancing natural resources",
+      "value": "natural_resources"
+    },
+    {
+      "label": "Cultural/traditional preservation",
+      "value": "cultural_preservation"
+    },
+    {
+      "label": "Spiritual/sacred sites preservation",
+      "value": "spiritual_preservation"
+    },
+    {
+      "label": "Biodiversity/species conservation",
+      "value": "conservation"
+    },
+    {
+      "label": "Land ownership security",
+      "value": "land_ownership"
+    },
+    {
+      "label": "Territorial security (control of access to land and resources)",
+      "value": "territorial_security"
+    },
+    {
+      "label": "Increasing rights for self determination and empowerment",
+      "value": "self_determination"
+    },
+    {
+      "label": "Developing opportunities for tourism",
+      "value": "tourism"
+    },
+    {
+      "label": "Other (please describe under question 13)",
+      "value": "other"
+    }
+  ]
 }

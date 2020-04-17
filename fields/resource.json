@@ -1,16 +1,36 @@
 {
-    "key": "resource",
-    "type": "select_one",
-    "label": "What is found here?",
-    "universal": true,
-    "placeholder": "",
-    "options": [
-        "Hunting site",
-        "Fishing site",
-        "Medicinal plant",
-        "Wild foods",
-      "Materials for construction",
-      "Materials for crafts",
-      "Other"
-        ]
+  "key": "resource",
+  "type": "select_one",
+  "label": "What is found here?",
+  "placeholder": "",
+  "options": [
+    {
+      "label": "Hunting site",
+      "value": "hunting_site"
+    },
+    {
+      "label": "Fishing site",
+      "value": "fishing_site"
+    },
+    {
+      "label": "Medicinal plant",
+      "value": "medicinal_plant"
+    },
+    {
+      "label": "Wild foods",
+      "value": "wild_foods"
+    },
+    {
+      "label": "Materials for construction",
+      "value": "construction_materials"
+    },
+    {
+      "label": "Materials for crafts",
+      "value": "craft_materials"
+    },
+    {
+      "label": "Other",
+      "value": "other"
+    }
+  ]
 }

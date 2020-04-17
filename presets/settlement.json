@@ -1,7 +1,6 @@
 {
   "icon": "settlement",
   "geometry": ["point"],
-
   "terms": ["settlement", "village", "community"],
   "name": "Settlement",
   "tags": { "categoryId": "settlement" },

@@ -1,9 +1,20 @@
 {
-    "key": "icca-status",
-    "type": "select_one",
-    "label": "Is the ICCA recognised by the national government for its role in conservation (e.g., as a protected area)?",
-    "universal": true,
-    "options": ["Designated: legally-designated as a protected area or other type of conservation area",
-        "Established: established by the indigenous people or local community, but not legally-designated as a protected area or other type of conservation area",
-        "Proposed: approved for future legal-designation as a protected area or other type of conservation area"]
+  "key": "icca-status",
+  "type": "select_one",
+  "label": "ICCA government recognition status",
+  "helperText": "Is the ICCA recognised by the national government for its role in conservation (e.g. as a protected area)? Select 'Designated' if the ICCA is legally-designated as a protected area or other type of conservation area. Select 'Established' if the ICCA is established by the indigenous people or local community, but not legally-designated as a protected area or other type of conservation area. Select 'Proposed' if the ICCA is approved for future legal-designation as a protected area or other type of conservation area",
+  "options": [
+    {
+      "label": "Designated",
+      "value": "designated"
+    },
+    {
+      "label": "Established",
+      "value": "established"
+    },
+    {
+      "label": "Proposed",
+      "value": "proposed"
+    }
+  ]
 }

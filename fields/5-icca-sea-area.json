@@ -1,7 +1,7 @@
 {
-    "key": "icca-sea-area",
-    "type": "textarea",
-    "label": "Area of ICCA in the Sea",
-    "universal": true,
-    "placeholder": "If the ICCA includes any sea area, what is the size, in km squared of this part?"
+  "key": "icca-sea-area",
+  "type": "text",
+  "appearance": "singleline",
+  "label": "Area of ICCA in the Sea (km²)",
+  "helperText": "If the ICCA includes any sea area, what is the size, in km squared of this part?"
 }

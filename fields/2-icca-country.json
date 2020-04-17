@@ -1,7 +1,7 @@
 {
-    "key": "icca-country",
-    "type": "textarea",
-    "label": "Country",
-    "universal": true,
-    "placeholder": "What country is it located in?"
+  "key": "icca-country",
+  "type": "text",
+  "appearance": "singleline",
+  "label": "Country",
+  "helperText": "What country is this ICCA located in?"
 }

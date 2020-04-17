@@ -2,7 +2,6 @@
   "icon": "impact",
   "fields": ["name", "threat"],
   "geometry": ["point"],
-
   "terms": ["threat", "impact", "logging", "mining", "invasion", "illegal"],
   "name": "Threat or Impact",
   "tags": { "categoryId": "impact" }
