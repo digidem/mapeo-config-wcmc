@@ -1,8 +1,0 @@
-{
-  "icon": "guardpost",
-  "geometry": ["point"],
-  "terms": ["guardpost", "station"],
-  "name": "Guardpost",
-  "tags": { "categoryId": "guardpost" },
-  "fields": ["name"]
-}
