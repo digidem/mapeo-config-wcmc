@@ -5,6 +5,7 @@
     "2-icca-country",
     "3-icca-area",
     "4-icca-land-sea",
+    "4a-icca-sea-area",
     "5-icca-no-take",
     "6-icca-decision-making",
     "7-icca-status",
@@ -17,7 +18,8 @@
   "geometry": ["area", "line"],
   "tags": {
     "boundary": "protected_area",
-    "protection_title": "icca"
+    "protection_title": "icca",
+    "icca-land-sea": "land_and_sea"
   },
   "terms": ["boundary", "icca", "border", "limit", "icca"],
   "name": "ICCA Boundary"
