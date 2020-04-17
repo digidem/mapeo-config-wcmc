@@ -4,8 +4,8 @@
   "description": "Mapeo config for ICCA mapping, with WCMC",
   "dependencies": {},
   "devDependencies": {
-    "mapeo-settings-builder": "^2.14.0",
-    "mkdirp": "^0.5.1",
+    "mapeo-settings-builder": "^2.15.0",
+    "mkdirp": "^1.0.4",
     "rimraf": "^3.0.2"
   },
   "files": [
