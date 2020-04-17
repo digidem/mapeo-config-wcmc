@@ -1,7 +1,7 @@
 {
   "key": "icca-year",
   "type": "text",
-  "appearance": "multiline",
+  "appearance": "singleline",
   "label": "10. Year ICCA established",
   "placeholder": "4-digit year e.g. 2014",
   "helperText": "In which year did this status come into effect? If the status is established, this is the year in which the ICCA first came into being."
