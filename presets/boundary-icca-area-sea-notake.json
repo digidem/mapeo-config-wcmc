@@ -8,12 +8,15 @@
     "4a-icca-sea-area",
     "5-icca-no-take",
     "5a-icca-no-take-area",
-    "6-icca-decision-making",
-    "7-icca-status",
-    "8-icca-year",
-    "9-icca-type",
-    "10-icca-objectives",
-    "11-icca-other"
+    "6-icca-boundary-criteria",
+    "7-icca-neighbours",
+    "8-icca-sharing",
+    "9-icca-decision-making",
+    "10-icca-conservation-status",
+    "11-icca-year",
+    "12-icca-type",
+    "13-icca-objectives",
+    "14-icca-other"
   ],
 
   "geometry": ["area", "line"],

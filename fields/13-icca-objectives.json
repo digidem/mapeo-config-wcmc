@@ -1,7 +1,7 @@
 {
   "key": "icca-objectives",
   "type": "select_multiple",
-  "label": "10. ICCA Objectives",
+  "label": "13. ICCA Objectives",
   "helperText": "What are the main objectives of managing the ICCA?",
   "options": [
     {

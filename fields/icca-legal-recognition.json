@@ -1,0 +1,20 @@
+{
+  "key": "icca-legal-recognition",
+  "type": "select_one",
+  "label": "ICCA land rights",
+  "helperText": "Is the area delimited by the boundary legally recognised by your national governments? (Question 10, above, refers to conservation status. This question refers to recognition of land rights within the area)",
+  "options": [
+    {
+      "label": "Full recognition",
+      "value": "full"
+    },
+    {
+      "label": "Partial recognition",
+      "value": "partial"
+    },
+    {
+      "label": "No recognition",
+      "value": "none"
+    }
+  ]
+}
