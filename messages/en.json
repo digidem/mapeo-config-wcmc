@@ -1,1 +1,374 @@
-{}
+{
+  "fields.1-name.helperText": {
+    "description": "Descriptive text for field '1-name'",
+    "message": ""
+  },
+  "fields.1-name.label": {
+    "description": "Label for field '1-name'",
+    "message": "1. Name of ICCA"
+  },
+  "fields.1-name.placeholder": {
+    "description": "An example to guide the user for field '1-name'",
+    "message": ""
+  },
+  "fields.10-icca-conservation-status.helperText": {
+    "description": "Descriptive text for field '10-icca-conservation-status'",
+    "message": "Is the ICCA recognised by the national government for its role in conservation (e.g. as a protected area)? Select \"Designated\" if the ICCA is legally-designated as a protected area or other type of conservation area. Select \"Established\" if the ICCA is established by the indigenous people or local community, but not legally-designated as a protected area or other type of conservation area. Select \"Proposed\" if the ICCA is approved for future legal-designation as a protected area or other type of conservation area"
+  },
+  "fields.10-icca-conservation-status.label": {
+    "description": "Label for field '10-icca-conservation-status'",
+    "message": "10. ICCA government recognition status"
+  },
+  "fields.10-icca-conservation-status.placeholder": {
+    "description": "An example to guide the user for field '10-icca-conservation-status'",
+    "message": ""
+  },
+  "fields.11-icca-year.helperText": {
+    "description": "Descriptive text for field '11-icca-year'",
+    "message": "In which year did this status come into effect? If the status is established, this is the year in which the ICCA first came into being. You can also answer \"Unknown\" or \"Time immemorial\""
+  },
+  "fields.11-icca-year.label": {
+    "description": "Label for field '11-icca-year'",
+    "message": "11. Year ICCA established"
+  },
+  "fields.11-icca-year.placeholder": {
+    "description": "An example to guide the user for field '11-icca-year'",
+    "message": "4-digit year e.g. 2014"
+  },
+  "fields.12-icca-type.helperText": {
+    "description": "Descriptive text for field '12-icca-type'",
+    "message": "This can be the legal designation of the ICCA, e.g. Indigenous Reserve, or the type of ICCA as defined by the indigenous people or community, e.g. sacred site."
+  },
+  "fields.12-icca-type.label": {
+    "description": "Label for field '12-icca-type'",
+    "message": "12. Type of ICCA"
+  },
+  "fields.12-icca-type.placeholder": {
+    "description": "An example to guide the user for field '12-icca-type'",
+    "message": ""
+  },
+  "fields.13-icca-objectives.helperText": {
+    "description": "Descriptive text for field '13-icca-objectives'",
+    "message": "What are the main objectives of managing the ICCA?"
+  },
+  "fields.13-icca-objectives.label": {
+    "description": "Label for field '13-icca-objectives'",
+    "message": "13. ICCA Objectives"
+  },
+  "fields.13-icca-objectives.placeholder": {
+    "description": "An example to guide the user for field '13-icca-objectives'",
+    "message": ""
+  },
+  "fields.14-icca-other.helperText": {
+    "description": "Descriptive text for field '14-icca-other'",
+    "message": "Any other important information you would like to share"
+  },
+  "fields.14-icca-other.label": {
+    "description": "Label for field '14-icca-other'",
+    "message": "14. Anything else?"
+  },
+  "fields.14-icca-other.placeholder": {
+    "description": "An example to guide the user for field '14-icca-other'",
+    "message": "Any other important information you would like to share"
+  },
+  "fields.2-icca-country.helperText": {
+    "description": "Descriptive text for field '2-icca-country'",
+    "message": "What country is this ICCA located in?"
+  },
+  "fields.2-icca-country.label": {
+    "description": "Label for field '2-icca-country'",
+    "message": "2. Country"
+  },
+  "fields.2-icca-country.placeholder": {
+    "description": "An example to guide the user for field '2-icca-country'",
+    "message": ""
+  },
+  "fields.3-icca-area.helperText": {
+    "description": "Descriptive text for field '3-icca-area'",
+    "message": "Select the ICCA shape and press Ctrl-i to get statistics of the area."
+  },
+  "fields.3-icca-area.label": {
+    "description": "Label for field '3-icca-area'",
+    "message": "3. Area of ICCA (km²)"
+  },
+  "fields.3-icca-area.placeholder": {
+    "description": "An example to guide the user for field '3-icca-area'",
+    "message": "Area in square kilometres"
+  },
+  "fields.4-icca-land-sea.helperText": {
+    "description": "Descriptive text for field '4-icca-land-sea'",
+    "message": ""
+  },
+  "fields.4-icca-land-sea.label": {
+    "description": "Label for field '4-icca-land-sea'",
+    "message": "4. Is the ICCA on land, in the sea, or both?"
+  },
+  "fields.4-icca-land-sea.placeholder": {
+    "description": "An example to guide the user for field '4-icca-land-sea'",
+    "message": ""
+  },
+  "fields.4a-icca-sea-area.helperText": {
+    "description": "Descriptive text for field '4a-icca-sea-area'",
+    "message": "If the ICCA includes any area in the sea, what is the size, in kilometres-squared, of this part?"
+  },
+  "fields.4a-icca-sea-area.label": {
+    "description": "Label for field '4a-icca-sea-area'",
+    "message": "4a. Area of ICCA in the sea (km²)"
+  },
+  "fields.4a-icca-sea-area.placeholder": {
+    "description": "An example to guide the user for field '4a-icca-sea-area'",
+    "message": ""
+  },
+  "fields.5-icca-no-take.helperText": {
+    "description": "Descriptive text for field '5-icca-no-take'",
+    "message": "Is there a part of the ICCA where no natural resources can be taken or used (a no-take area)? This can be seasonal, temporary or permanent."
+  },
+  "fields.5-icca-no-take.label": {
+    "description": "Label for field '5-icca-no-take'",
+    "message": "5. Is there a no-take area?"
+  },
+  "fields.5-icca-no-take.placeholder": {
+    "description": "An example to guide the user for field '5-icca-no-take'",
+    "message": ""
+  },
+  "fields.5a-icca-no-take-area.helperText": {
+    "description": "Descriptive text for field '5a-icca-no-take-area'",
+    "message": "What is the size, in kilometres-squared, of the no-take area?"
+  },
+  "fields.5a-icca-no-take-area.label": {
+    "description": "Label for field '5a-icca-no-take-area'",
+    "message": "5a. Size of no-take area (km²)"
+  },
+  "fields.5a-icca-no-take-area.placeholder": {
+    "description": "An example to guide the user for field '5a-icca-no-take-area'",
+    "message": "Size in square kilometres"
+  },
+  "fields.6-icca-boundary-criteria.helperText": {
+    "description": "Descriptive text for field '6-icca-boundary-criteria'",
+    "message": "Describe the criteria used to determine the boundary of the ICCA, e.g. is it an area of traditional resource use and occupation, or actual resource use and occupation, or a site of cultural or historical significance?"
+  },
+  "fields.6-icca-boundary-criteria.label": {
+    "description": "Label for field '6-icca-boundary-criteria'",
+    "message": "6. How was the boundary determined?"
+  },
+  "fields.6-icca-boundary-criteria.placeholder": {
+    "description": "An example to guide the user for field '6-icca-boundary-criteria'",
+    "message": "Describe the criteria used to determine the boundary"
+  },
+  "fields.7-icca-neighbours.helperText": {
+    "description": "Descriptive text for field '7-icca-neighbours'",
+    "message": "If the boundary has been agreed with neighbours, indicate the name and location of neighbours and the dates of agreements. If the boundary has not been agreed, please indicate the status of negotiations of discussions. You may put \"Not applicable\" if there are no other peoples neighbouring the ICCA."
+  },
+  "fields.7-icca-neighbours.label": {
+    "description": "Label for field '7-icca-neighbours'",
+    "message": "7. Boundary agreements with neighbours"
+  },
+  "fields.7-icca-neighbours.placeholder": {
+    "description": "An example to guide the user for field '7-icca-neighbours'",
+    "message": "Has the boundary been agreed with all neighbouring peoples?"
+  },
+  "fields.8-icca-sharing.helperText": {
+    "description": "Descriptive text for field '8-icca-sharing'",
+    "message": "Is the area delimited by the boundary used and occupied exclusively by your people or is it shared with other peoples or communities?"
+  },
+  "fields.8-icca-sharing.label": {
+    "description": "Label for field '8-icca-sharing'",
+    "message": "8. ICCA shared use"
+  },
+  "fields.8-icca-sharing.placeholder": {
+    "description": "An example to guide the user for field '8-icca-sharing'",
+    "message": "Is the ICCA shared with other peoples of communities?"
+  },
+  "fields.9-icca-decision-making.helperText": {
+    "description": "Descriptive text for field '9-icca-decision-making'",
+    "message": "Select \"Collaborative governance\" if one entity is responsible but is required to consult with others. Select \"Joint Governance\" if two or more entities are jointly responsible"
+  },
+  "fields.9-icca-decision-making.label": {
+    "description": "Label for field '9-icca-decision-making'",
+    "message": "9. Who is responsible for the decision-making and rules of the ICCA?"
+  },
+  "fields.9-icca-decision-making.placeholder": {
+    "description": "An example to guide the user for field '9-icca-decision-making'",
+    "message": ""
+  },
+  "fields.culture.helperText": {
+    "description": "Descriptive text for field 'culture'",
+    "message": ""
+  },
+  "fields.culture.label": {
+    "description": "Label for field 'culture'",
+    "message": "Why is this place important?"
+  },
+  "fields.culture.placeholder": {
+    "description": "An example to guide the user for field 'culture'",
+    "message": "What happened here, or why is this place important to the community?"
+  },
+  "fields.icca-legal-recognition.helperText": {
+    "description": "Descriptive text for field 'icca-legal-recognition'",
+    "message": "Is the area delimited by the boundary legally recognised by your national governments? (Question 10, above, refers to conservation status. This question refers to recognition of land rights within the area)"
+  },
+  "fields.icca-legal-recognition.label": {
+    "description": "Label for field 'icca-legal-recognition'",
+    "message": "ICCA land rights"
+  },
+  "fields.icca-legal-recognition.placeholder": {
+    "description": "An example to guide the user for field 'icca-legal-recognition'",
+    "message": ""
+  },
+  "fields.name.helperText": {
+    "description": "Descriptive text for field 'name'",
+    "message": ""
+  },
+  "fields.name.label": {
+    "description": "Label for field 'name'",
+    "message": "Name"
+  },
+  "fields.name.placeholder": {
+    "description": "An example to guide the user for field 'name'",
+    "message": ""
+  },
+  "fields.resource.helperText": {
+    "description": "Descriptive text for field 'resource'",
+    "message": ""
+  },
+  "fields.resource.label": {
+    "description": "Label for field 'resource'",
+    "message": "What is found here?"
+  },
+  "fields.resource.placeholder": {
+    "description": "An example to guide the user for field 'resource'",
+    "message": ""
+  },
+  "fields.threat.helperText": {
+    "description": "Descriptive text for field 'threat'",
+    "message": ""
+  },
+  "fields.threat.label": {
+    "description": "Label for field 'threat'",
+    "message": "What is happening here?"
+  },
+  "fields.threat.placeholder": {
+    "description": "An example to guide the user for field 'threat'",
+    "message": ""
+  },
+  "presets.area.name": {
+    "description": "The name of preset 'area'",
+    "message": "Other area"
+  },
+  "presets.area.terms": {
+    "description": "List of search terms for preset 'area'",
+    "message": ""
+  },
+  "presets.boundary-icca-area-notake.name": {
+    "description": "The name of preset 'boundary-icca-area-notake'",
+    "message": "ICCA Boundary"
+  },
+  "presets.boundary-icca-area-notake.terms": {
+    "description": "List of search terms for preset 'boundary-icca-area-notake'",
+    "message": "boundary,icca,border,limit,icca"
+  },
+  "presets.boundary-icca-area-sea-notake.name": {
+    "description": "The name of preset 'boundary-icca-area-sea-notake'",
+    "message": "ICCA Boundary"
+  },
+  "presets.boundary-icca-area-sea-notake.terms": {
+    "description": "List of search terms for preset 'boundary-icca-area-sea-notake'",
+    "message": "boundary,icca,border,limit,icca"
+  },
+  "presets.boundary-icca-area-sea.name": {
+    "description": "The name of preset 'boundary-icca-area-sea'",
+    "message": "ICCA Boundary"
+  },
+  "presets.boundary-icca-area-sea.terms": {
+    "description": "List of search terms for preset 'boundary-icca-area-sea'",
+    "message": "boundary,icca,border,limit,icca"
+  },
+  "presets.boundary-icca-area.name": {
+    "description": "The name of preset 'boundary-icca-area'",
+    "message": "ICCA Boundary"
+  },
+  "presets.boundary-icca-area.terms": {
+    "description": "List of search terms for preset 'boundary-icca-area'",
+    "message": "boundary,icca,border,limit,icca"
+  },
+  "presets.boundary-icca-point.name": {
+    "description": "The name of preset 'boundary-icca-point'",
+    "message": "ICCA Boundary"
+  },
+  "presets.boundary-icca-point.terms": {
+    "description": "List of search terms for preset 'boundary-icca-point'",
+    "message": "border,frontier,limit"
+  },
+  "presets.community-cultural.name": {
+    "description": "The name of preset 'community-cultural'",
+    "message": "Historical or Cultural Site"
+  },
+  "presets.community-cultural.terms": {
+    "description": "List of search terms for preset 'community-cultural'",
+    "message": "community,cultural,sacred,history,spiritual"
+  },
+  "presets.community-resource.name": {
+    "description": "The name of preset 'community-resource'",
+    "message": "Community Resource"
+  },
+  "presets.community-resource.terms": {
+    "description": "List of search terms for preset 'community-resource'",
+    "message": "community,resource"
+  },
+  "presets.conservation.name": {
+    "description": "The name of preset 'conservation'",
+    "message": "Conservation Site"
+  },
+  "presets.conservation.terms": {
+    "description": "List of search terms for preset 'conservation'",
+    "message": "conservation,testing,scientific,research,reserve"
+  },
+  "presets.impact.name": {
+    "description": "The name of preset 'impact'",
+    "message": "Threat or Impact"
+  },
+  "presets.impact.terms": {
+    "description": "List of search terms for preset 'impact'",
+    "message": "threat,impact,logging,mining,invasion,illegal"
+  },
+  "presets.line.name": {
+    "description": "The name of preset 'line'",
+    "message": "New line"
+  },
+  "presets.line.terms": {
+    "description": "List of search terms for preset 'line'",
+    "message": ""
+  },
+  "presets.path.name": {
+    "description": "The name of preset 'path'",
+    "message": "Path"
+  },
+  "presets.path.terms": {
+    "description": "List of search terms for preset 'path'",
+    "message": "path,road,footpath"
+  },
+  "presets.point.name": {
+    "description": "The name of preset 'point'",
+    "message": "Other"
+  },
+  "presets.point.terms": {
+    "description": "List of search terms for preset 'point'",
+    "message": ""
+  },
+  "presets.settlement.name": {
+    "description": "The name of preset 'settlement'",
+    "message": "Settlement"
+  },
+  "presets.settlement.terms": {
+    "description": "List of search terms for preset 'settlement'",
+    "message": "settlement,village,community"
+  },
+  "presets.tourism.name": {
+    "description": "The name of preset 'tourism'",
+    "message": "Tourism"
+  },
+  "presets.tourism.terms": {
+    "description": "List of search terms for preset 'tourism'",
+    "message": "tourism,lodge,tourist"
+  }
+}
